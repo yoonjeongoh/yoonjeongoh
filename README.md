@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-<!--
-**yoonjeongoh/yoonjeongoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Oh%20YoonJeong&fontSize=80)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yoonjeongoh&show_icons=true)
 
 Here are some ideas to get you started:
 
